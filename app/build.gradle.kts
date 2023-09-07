@@ -97,9 +97,5 @@ dependencies {
     // Koin
     implementation("io.insert-koin:koin-core:3.4.3")
     implementation("io.insert-koin:koin-android:3.4.3")
-//    implementation("io.insert-koin:koin-core-ext:2.1.5")
-//    implementation("io.insert-koin:koin-androidx-navigation:3.4.3")
     implementation("io.insert-koin:koin-androidx-compose:3.4.6")
-//    implementation("io.insert-koin:koin-core:3.2.2")
-//    implementation("io.insert-koin:koin-android:3.3.0")
 }
